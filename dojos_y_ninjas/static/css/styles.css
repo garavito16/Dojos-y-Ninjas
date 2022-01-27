@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form_dojo > * {
+    margin-bottom: 1.0em;
+}
+
+.list_dojos {
+    list-style: none;
+    border: 2px solid black;
+    padding: 1.5em;
+}
+
+.title {
+    text-align: center;
+}
+
+.link_home {
+    text-align: right;
+}
